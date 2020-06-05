@@ -4,7 +4,8 @@ import './App.css';
 function App() {
   return (
     <div >
-      first change 
+      <h1>This is the first App</h1>
+      <h2>Hello world from Muhammad Sheraz</h2>
     </div>
   );
 }
